@@ -1,0 +1,2 @@
+2025-01-21T15:08:12.217Z | IP: ::1 | URL: / | Protocol: http | Method: GET | Host: localhost
+2025-01-21T15:08:14.495Z | IP: ::1 | URL: / | Protocol: http | Method: GET | Host: localhost
